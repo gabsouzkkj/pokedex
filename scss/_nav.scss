@@ -1,0 +1,46 @@
+.navbar-dark {
+    box-shadow: 1px 1px 1px 7px #FFCB05;
+    border-radius: -2px;
+}
+.container-fluid {
+    align-items: center;
+    margin-right: 10%;
+    padding: 6px;    
+    .btn-outline-success {
+        font-weight: bold;
+        border: 2px solid;
+        --bs-btn-color:  #ffffff;
+        --bs-btn-hover-color: #ff0000;
+        --bs-btn-hover-bg:  #ffffff;
+        --bs-btn-hover-border-color:  #2B73B9;
+        --bs-btn-focus-shadow-rgb: 25,135,84;
+        --bs-btn-active-color: #fff;
+        --bs-btn-active-bg:  #2B73B9;
+        --bs-btn-active-border-color:  #2B73B9;
+        --bs-btn-active-shadow: inset 0 3px 5pxrgba(0, 0, 0, 0.125);
+        --bs-btn-disabled-color: #2B73B9;
+        --bs-btn-disabled-bg: rgb(222, 214, 214);
+        --bs-btn-disabled-border-color:  #2B73B9;
+        --bs-gradient: none;
+    }
+    .navbar {
+        width: 1%;
+    }
+    .d-flex {
+        width: 65%;
+        font-family: "ＭＳ Ｐゴシック";
+        font-weight: bold;
+    } 
+    .nav-link {
+        font-size: 20px;
+        font-family: "ＭＳ Ｐゴシック";
+        color: #ffffff;
+        font-weight: bold;
+        }
+        .form-control {
+            border: 2px solid ;
+            font-weight: bold;
+            border-color: #ffffff;
+    }
+}
+
